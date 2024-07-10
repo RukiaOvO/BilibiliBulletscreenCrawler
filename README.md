@@ -1,7 +1,7 @@
 ## BilibiliBulletscreenCrawler
 
 ### Discription:
-A small tool that can crawl a bilibiliVideo's bulletscreen   
+A small Go-based tool that can crawl a bilibiliVideo's bulletscreen   
 and parse the uid of the sender you want to know.
 
 ### Project dictionary:
